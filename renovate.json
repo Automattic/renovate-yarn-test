@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "statusCheckVerify": true,
   "rangeStrategy": "bump",
   "lockFileMaintenance": {
 		"enabled": true,
