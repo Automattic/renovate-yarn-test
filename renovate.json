@@ -5,6 +5,6 @@
   "rangeStrategy": "update-lockfile",
   "lockFileMaintenance": {
 		"enabled": true,
-		"schedule": "every day"
+		"schedule": "at any time"
 	}
 }
