@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "update-lockfile",
+  "rangeStrategy": "bump",
   "lockFileMaintenance": {
 		"enabled": true,
 		"schedule": "at any time"
