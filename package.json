@@ -1,0 +1,10 @@
+{
+  "name": "renovate-yarn-test",
+  "version": "1.0.0",
+  "description": "a testbed for renovate and yarn",
+  "main": "index.js",
+  "repository": "https://github.com/Automattic/renovate-yarn-test.git",
+  "author": "Ben Lowery <ben.lowery@automattic.com>",
+  "license": "GPL-3",
+  "private": true
+}
