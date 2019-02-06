@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+blowery-foo@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/blowery-foo/-/blowery-foo-1.0.0.tgz#5850e49f8e5cb4fb238ae17984865ddb2537fb68"
+  integrity sha512-REVnOPHLSuGAJBbxBYdQekk/fwKeh63f0gC+Tp85q1wTlAHEwp7HEl/8BJbnGQlGNmqgInqRDrqUDU3d3ixd7g==
+  dependencies:
+    react "^16.8.1"
+
 caniuse-db@^1.0.30000935:
   version "1.0.30000935"
   resolved "https://registry.yarnpkg.com/caniuse-db/-/caniuse-db-1.0.30000935.tgz#0b4210ae207013c76bc1a2e0e903b15bec742a08"
