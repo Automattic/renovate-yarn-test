@@ -2,9 +2,14 @@
   "extends": [
     "config:base"
   ],
+  "statusCheckVerify": true,
   "rangeStrategy": "bump",
   "lockFileMaintenance": {
 		"enabled": true,
 		"schedule": "at any time"
-	}
+  },
+  "prConcurrentLimit": 0,
+	"prHourlyLimit": 50,
+	"semanticCommits": true,
+	"semanticCommitType": "chore"
 }
